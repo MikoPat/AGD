@@ -1,0 +1,16 @@
+﻿okapy kominowe;1;2763038,98;NULL;-
+okapy kominowe;2;3032950,46;2763038,98;wzrost
+okapy kominowe;3;4993021,21;3032950,46;wzrost
+okapy kominowe;4;4903390,22;4993021,21;spadek
+okapy meblowe;1;23700,24;NULL;-
+okapy meblowe;2;35148,25;23700,24;wzrost
+okapy meblowe;3;46883,19;35148,25;wzrost
+okapy meblowe;4;45492,51;46883,19;spadek
+okapy teleskopowe;1;1115369,94;NULL;-
+okapy teleskopowe;2;1093127,09;1115369,94;spadek
+okapy teleskopowe;3;1750299,88;1093127,09;wzrost
+okapy teleskopowe;4;2192342,48;1750299,88;wzrost
+okapy uniwersalne;1;3356400,19;NULL;-
+okapy uniwersalne;2;2875521,30;3356400,19;spadek
+okapy uniwersalne;3;3462683,61;2875521,30;wzrost
+okapy uniwersalne;4;4595745,83;3462683,61;wzrost

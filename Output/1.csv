@@ -1,0 +1,35 @@
+﻿okapy kominowe;Meblarze;413
+okapy kominowe;Polnoc;2999
+okapy kominowe;Poludnie;7967
+okapy kominowe;Pozostale;8921
+okapy kominowe;Wschod;2004
+okapy kominowe;Zachod;6149
+okapy kominowe;NULL;28453
+okapy meblowe;Meblarze;29
+okapy meblowe;Polnoc;45
+okapy meblowe;Poludnie;182
+okapy meblowe;Pozostale;126
+okapy meblowe;Wschod;84
+okapy meblowe;Zachod;75
+okapy meblowe;NULL;541
+okapy teleskopowe;Meblarze;458
+okapy teleskopowe;Polnoc;2541
+okapy teleskopowe;Poludnie;7382
+okapy teleskopowe;Pozostale;5936
+okapy teleskopowe;Wschod;2149
+okapy teleskopowe;Zachod;5337
+okapy teleskopowe;NULL;23803
+okapy uniwersalne;Meblarze;1887
+okapy uniwersalne;Polnoc;9954
+okapy uniwersalne;Poludnie;18376
+okapy uniwersalne;Pozostale;36923
+okapy uniwersalne;Wschod;8557
+okapy uniwersalne;Zachod;22033
+okapy uniwersalne;NULL;97730
+NULL;NULL;150527
+NULL;Meblarze;2787
+NULL;Polnoc;15539
+NULL;Poludnie;33907
+NULL;Pozostale;51906
+NULL;Wschod;12794
+NULL;Zachod;33594
